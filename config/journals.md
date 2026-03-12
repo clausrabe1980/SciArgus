@@ -1,118 +1,115 @@
-bioRxiv
 arXiv
-EcoEvoRxiv
-EarthArXiv
+SSRN
+National Bureau of Economic Research
 OSF Preprints
-Nature
-Science
-Proceedings of the National Academy of Sciences
-Nature Communications
-Science Advances
-PLOS One
-Scientific Reports
-Current Biology
-Proceedings of the Royal Society B: Biological Sciences
-One Earth
-PeerJ
-eLife
-Cell
-iScience
-Nature Ecology & Evolution
-Nature Climate Change
-Nature Geoscience
-Nature Machine Intelligence
-Nature Sustainability
-Nature Plants
-Nature Water
-Nature Computational Science
-Scientific Data
-Nature Methods
-Trends in Ecology & Evolution
-Annual Review of Ecology, Evolution, and Systematics
-Annual Review of Environment and Resources
-Annual Review of Earth and Planetary Sciences
-Biological Reviews
-Nature Reviews Earth & Environment
-Ecology Letters
-Global Change Biology
-Conservation Letters
-Journal of Applied Ecology
-Conservation Biology
-Biological Conservation
-Ecological Applications
-Methods in Ecology and Evolution
-Ecology
-Journal of Ecology
-Oikos
-Oecologia
-Diversity and Distributions
-Global Ecology and Biogeography
-Functional Ecology
-Landscape Ecology
-Ecosystems
-Frontiers in Ecology and the Environment
-The American Naturalist
-Ecography
-Biodiversity and Conservation
-Animal Conservation
-Perspectives in Plant Ecology, Evolution and Systematics
-Basic and Applied Ecology
-Plant Ecology
-Evolutionary Applications
-Journal of Animal Ecology
-Journal of Biogeography
-Restoration Ecology
-Urban Ecosystems
-Biological Invasions
-Biotropica
-Conservation Science and Practice
-Ecological Monographs
-Ecological Indicators
-Marine Ecology Progress Series
-Freshwater Biology
-Forest Ecology and Management
-Wildlife Research
-Wildlife Society Bulletin
-The Journal of Wildlife Management
-Oryx
-Biogeochemistry
-Ecological Modelling
+
+Journal of Urban Economics
+Regional Science and Urban Economics
+Journal of Housing Economics
+Real Estate Economics
+Regional Studies
+Urban Studies
+Environment and Planning A: Economy and Space
+Environment and Planning B: Urban Analytics and City Science
+Environment and Planning C: Politics and Space
+Environment and Planning D: Society and Space
+Journal of Regional Science
+Papers in Regional Science
+International Regional Science Review
+Cambridge Journal of Regions, Economy and Society
+Urban Geography
+Housing Studies
+International Journal of Housing Policy
+Land Economics
+Journal of Economic Geography
+Economic Geography
+Cities
+Landscape and Urban Planning
+Town Planning Review
+Planning Theory
+Planning Theory & Practice
+Journal of Planning Education and Research
+Journal of the American Planning Association
+European Planning Studies
+Progress in Planning
+
+Journal of Transport Geography
+Transportation Research Part A: Policy and Practice
+Transportation Research Part B: Methodological
+Transportation Research Part D: Transport and Environment
+Transportation Research Part E: Logistics and Transportation Review
+Transportation Research Part F: Traffic Psychology and Behaviour
+Transport Policy
+Transport Reviews
+Case Studies on Transport Policy
+Research in Transportation Economics
+
+Journal of Environmental Economics and Management
+Environmental and Resource Economics
+Ecological Economics
+World Development
+World Bank Economic Review
+World Development Perspectives
+Development Southern Africa
+Development Policy Review
+Oxford Development Studies
+
+Journal of Policy Analysis and Management
+Policy Studies Journal
+Public Administration Review
+Evaluation Review
+American Journal of Evaluation
+Journal of Development Effectiveness
+
+Journal of Quantitative Criminology
+Criminology & Public Policy
+Justice Quarterly
+Policing and Society
+Police Practice and Research
+Crime Science
+Security Journal
+
+Energy Economics
+The Energy Journal
+Energy Policy
+Utilities Policy
+Resource and Energy Economics
+Renewable and Sustainable Energy Reviews
+
+Computers, Environment and Urban Systems
+Applied Geography
+Geographical Analysis
+Transactions in GIS
+International Journal of Geographical Information Science
+GIScience & Remote Sensing
 Remote Sensing of Environment
 ISPRS Journal of Photogrammetry and Remote Sensing
-IEEE Transactions on Geoscience and Remote Sensing
 International Journal of Applied Earth Observation and Geoinformation
-IEEE Geoscience and Remote Sensing Letters
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-Remote Sensing Letters
+Remote Sensing
 Remote Sensing Applications: Society and Environment
-Remote Sensing in Ecology and Conservation
-ISPRS International Journal of Geo-Information
-Journal of Machine Learning Research
-Journal of Artificial Intelligence Research
-Environmental Data Science
-Environmental Modelling & Software
-Ecological Informatics
-Environmental Research Letters
-Science of The Total Environment
-Journal of Environmental Management
-Global Environmental Change
-Earth System Dynamics
-Global Biogeochemical Cycles
-Journal of Environmental Informatics
-Ecological Economics
-Ecosystem Services
-Environmental Science & Policy
-Journal of Environmental Economics and Management
-Review of Environmental Economics and Policy
-Environmental and Resource Economics
-Advances in Neural Information Processing Systems
-International Conference on Machine Learning
-International Conference on Learning Representations
-Proceedings of the AAAI Conference on Artificial Intelligence
-Ecology and Society
-People and Nature
-Ambio
-Geoscientific Model Development
-Big Earth Data
-Bioacoustics
-National Bureau of Economic Research
+Photogrammetric Engineering & Remote Sensing
+
+Computers and Electronics in Agriculture
+Agricultural Systems
+Food Policy
+Journal of Rural Studies
+Research in Transportation Business & Management
+
+American Journal of Archaeology
+Antiquity
+Journal of Roman Archaeology
+Papers of the British School at Rome
+Annual of the British School at Athens
+Hesperia
+American Journal of Philology
+Journal of Hellenic Studies
+Classical Antiquity
+Mediterranean Archaeology and Archaeometry
+Internet Archaeology
+Archaeological Prospection
+World Archaeology
+Journal of Mediterranean Archaeology
+Britannia
+Historia
+Past & Present
+Speculum
