@@ -22,3 +22,34 @@ Andrés Rodríguez-Pose
 Karen C Seto
 Susan Wachter
 David Albouy
+Kristian Behrens
+Stephan Heblich
+Laurent Gobillon
+Ingrid Gould Ellen
+Joseph Gyourko
+Stuart Rosenthal
+Albert Saiz
+Christopher Timmins
+Morris A Davis
+Henry G Overman
+Remi Jedwab
+Harris Selod
+David Levinson
+Kenneth A Small
+Daniel A Rodríguez
+Mogens Fosgerau
+Edgar Pieterse
+Ivan Turok
+Susan Parnell
+Charlotte Lemanski
+Alan Mabin
+Michael Batty
+Sarah Williams
+Barbara Newman
+Chris Wickham
+Peter Brown
+Judith Herrin
+Cynthia Bannon
+Richard Hodges
+Michael Kulikowski
+Ian Morris
