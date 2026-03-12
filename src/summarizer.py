@@ -113,7 +113,7 @@ def score_papers(
             for i, p in enumerate(batch)
         )
 
-        prompt = f"""You are a research paper curator. Score each paper's relevance (0-10) to the BEST matching research interest below. Only assign a score above 0 if the paper is clearly relevant to one of these specific interests.
+        prompt = f"""You are a research paper curator. Score each paper's relevance (0-10) to the BEST matching research interest below. Use the full scale. Assign 0 only if the paper is truly unrelated. Assign 1-3 if it is only weakly or indirectly relevant, 4-6 if it is moderately relevant, 7-8 if it is strongly relevant, and 9-10 if it is exceptionally well matched.
 
 RESEARCH INTERESTS:
 {topic_block}
